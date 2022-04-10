@@ -27,5 +27,3 @@ PersistentVoumeClaim:
 Defines the request to use the storage including details on the type of storage needed.
 Automatically binds to an availavle PersistentVolume that meets the provided requirements.
 Mounted to a Pod like a normal volume.
-
-test
